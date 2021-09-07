@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+				<head>
+								<title> Animation road </title>
+								<link rel="stylesheet" type="text/css"
+								href="style1.css">
+								</head>
+								<body>
+
+<main>
+	<div class="decorator-top"></div>
+	<div class="decorator-center"></div>
+	
+	<div class="road">
+		<div class="depth"></div>
+	</div> 
+</main>
+</body>
